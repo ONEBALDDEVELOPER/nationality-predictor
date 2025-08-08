@@ -38,8 +38,8 @@ It uses the [Nationalize.io](https://nationalize.io/) API to return the most lik
   	http://localhost:5173
 
 ## 🚀 Usage
-	1.	Enter a **first name** into the search box.
-	2.	Click **Predict**.
+	1.	Enter a first name into the search box.
+	2.	Click Predict.
 	3.	View the top predicted nationalities and their probabilities.
 
 ## 📂 Project Structure 
